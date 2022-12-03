@@ -1,0 +1,427 @@
+.top-div{
+    background-color: yellow;
+    display: flex;
+    height: 74px;
+    margin: 0;
+    width: 90%;
+    padding-left: 215px;
+    padding-top: 38px;
+    display: flex;
+    font-size: 20px;
+    
+
+
+}
+.top-div a:hover{
+    text-decoration: underline;
+}
+.top-div-5{
+    display: flex;
+    text-align: center;
+    margin-top: -10px;
+
+}
+.div-head{
+display: flex;
+width: 90%;
+background-color: yellow;
+margin-left: 78px;
+font-size: 20px;
+}
+body{
+    margin: 0px;
+    background-color: yellow;
+}
+header a{
+    margin-right: 30px;
+}
+.download-button{
+    background-color: white;
+    border: none;
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 20px;
+    display: flex;
+    height: 50px;
+    align-items: center;
+    width: 160px;
+    padding-left: 20px;
+    margin-right: 20px;
+    
+}
+
+.download-button img{
+    width: 30px;
+    margin: 0;
+}
+#download-text{
+    margin-left: -30px;
+}
+#login.text{
+    margin-left:-50px;
+}
+.login img{
+    width: 40px;
+}
+
+.adverties{
+    font-family: 'graphik', Helvetica, sans-serif;
+    text-decoration: none;
+    color: black;
+    
+    
+}
+.login{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    height: 50px;
+    align-items: center;
+    width: 230px;
+    display: flex;
+    padding-left: 20px;
+    
+
+}
+.div2{
+    background-color: yellow;
+    display: flex;
+    height: 625px;
+    width: 100%;
+}
+.div21{
+    width: 30%;
+    height: 625px; 
+    background-color: yellow;
+    padding-left: 100px;
+    
+    
+}
+.div22{
+    width: 50%;
+    height: 500px;
+    background-color: yellow;
+    margin-left: 100px;
+    margin-top: 50px;
+
+
+}
+h1{
+    
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+.button21 h3{
+    font-size: 20px;
+    padding-left: 3px;
+}
+.button21{
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    width: 240px;
+    font-weight: bold;
+    font-size: 20px;
+    align-items: center;
+    height: 50px;
+    display:flex;
+    padding: left 20px;;
+    
+
+}
+.div21 h1 img{
+    margin-right: -20px;
+}
+.div3{
+    background-color: yellow;
+    height: 700px;
+    width: 100%;
+    display: flex;
+}
+.div4{
+    background-color: yellow;
+    height: 700px;
+    width: 100%;
+    display: flex;
+}
+.div5{
+    background-color: yellow;
+    height: 700px;
+    width: 100%;
+    display: flex;
+}
+.div6{
+    background-color: yellow;
+    height: 700px;
+    width: 100%;
+    display: flex;
+}
+.div31{
+    height: 700px;
+    width: 25%;
+    background-color:yellow;
+    padding-left: 145px;
+    
+}
+.div32{
+    height: 700px;
+    width: 50%;
+    background-color:yellow;
+    padding-top: 165px;
+    margin-left: 85px;
+}
+.div42{
+    height: 700px;
+    width: 50%;
+    background-color:yellow;
+    padding-top: 195px;
+    margin-left: 85px;
+}
+.div51{
+    height: 700px;
+    width: 50%;
+    background-color:yellow;
+    
+    
+}
+.div31-video{
+    border-radius: 20px;
+    height: 580px;
+    width: 400px;
+    object-fit: fill;
+    
+ 
+}
+.div32 h1{
+    font-weight: bold;
+}
+.div321{
+   display: flex;
+   
+   
+}
+.div321button1{
+    margin-right: 10px;
+    width: 200px;
+    height: 69px;
+    background-color: black;
+    color: white;
+    border-color: antiquewhite;
+    border-width:0;
+    font-weight: bold;
+    border-radius: 40px;
+    font-size: large;
+}
+.select{
+    width: 145px;
+    text-align: center;
+    border-radius: 10px;
+    border-width: 0;
+    margin-right: 15px;
+    color: black;
+    font-size: large;
+    
+    
+}
+.number{
+    text-align: center;
+    border-radius: 10px;
+    border-color: antiquewhite;
+    border-width: 0;
+    font-size: large;
+    font-weight: bold;
+    width: 275px;
+    margin-right: 15px;
+
+
+}
+.div421button1{
+    margin-right: 10px;
+    width: 275px;
+    height: 69px;
+    background-color: black;
+    color: white;
+    border-color: antiquewhite;
+    border-width:0;
+    font-weight: bold;
+    border-radius: 40px;
+    font-size: large;
+}
+.div521button1{
+    margin-right: 10px;
+    width: 250px;
+    height: 69px;
+    background-color: black;
+    color: white;
+    border-color: antiquewhite;
+    border-width:0;
+    font-weight: bold;
+    border-radius: 40px;
+    font-size: large;
+}
+.div62{
+    height: 505px;
+    width: 50%;
+    background-color:yellow;
+    padding-top: 195px;
+    margin-left: 85px;
+}
+
+.lastdiv{
+    width: 100%;
+    height: 700px;
+    background-color: yellow;
+    
+
+    
+    
+}
+.lastdiv2{
+    width: 50%;
+    height: 500px;
+    padding-left: 388px;
+    
+}
+.lastdiv21{
+    width: 100%;
+    height: 100px;
+    background-color:yellow;
+    text-align: center;
+    
+}
+.lastdiv22{
+    width: 96%;
+    height: 100px;
+    background-color:yellow;
+    padding-left: 30px;
+    text-align: center;
+    
+    
+}
+.lastdiv23{
+    width: 92%;
+    height: 100px;
+    background-color:yellow;
+    padding-left: 60px;
+    
+}
+.divlastbutton{
+    margin-right: 10px;
+    width: 190px;
+    height: 69px;
+    background-color:black;
+    color: white;
+    border-color: antiquewhite;
+    border-width:0;
+    font-weight: bold;
+    border-radius: 40px;
+    font-size: large;
+}
+.lastnumber{
+    text-align: center;
+    border-radius: 10px;
+    border-color: antiquewhite;
+    border-width: 0;
+    font-size: large;
+    font-weight: bold;
+    width: 275px;
+    margin-right: 30px;
+    margin-left: 30px;
+
+}
+.divlastbutton23{
+    margin-right: 10px;
+    width: 190px;
+    height: 69px;
+    background-color:yellow;
+    color: black;
+    border-color: antiquewhite;
+    border-width:0;
+    font-weight: bold;
+    border-radius: 40px;
+    font-size: large;
+}
+.footerdiv{
+    width: 100%;
+    height: 430px;
+    background-color: white;
+    margin-top: -300px;
+    
+    
+
+}
+.innerfooterdiv{
+    height: 380px;
+    width: 880px;
+    background-color: white;
+    margin-left: 305px;
+    
+    
+    
+
+
+}
+.closediv{
+    width: 1519px;
+    height: 32px;
+    background-color: black;
+    display: flex;
+    padding-top: 17px;
+    
+    
+    
+
+}
+.closediv a{
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.innerfooterdiv1{
+    width: 100%;
+    height: 250px;
+    background-color: white;
+    display: flex;
+}
+.divinner1{
+    height: 217px;
+    width: 25%;
+    background-color: white;
+    padding-top: 33px;
+}
+.divinner1 a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:14px;
+    color: black;
+}
+.divinner1 a:hover{
+    text-decoration: underline;
+}
+.bold{
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.select2{
+    height: 49px;
+    width: 205px;
+    border-radius: 5px;
+    background-color:rgb(236, 228, 228);
+    border-width: 0;
+    margin-top: 15px;
+    
+}
+.adiv{
+    margin-left: 420px;
+    margin-right: 100px;
+}

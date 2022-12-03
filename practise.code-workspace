@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../practise"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web snapchat"
+	}
+}
